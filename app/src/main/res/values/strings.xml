@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kolko i Krzyzyk</string>
+    <string name="kolko">O</string>
+    <string name="krzyzyk">X</string>
+</resources>
